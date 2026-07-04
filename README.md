@@ -22,3 +22,4 @@ COACHTECH 教材 Tutorial 9-3「データベース操作ハンズオン演習」
 ## 動作確認
 
 アクセスして動作確認　http://localhost/products
+<img width="716" height="824" alt="Image" src="https://github.com/user-attachments/assets/a858e71f-a759-4d22-b06d-64efbab1ffff" />
